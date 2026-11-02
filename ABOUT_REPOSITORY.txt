@@ -1,0 +1,5 @@
+Repository name: ShadowTrace-AI
+Description: Java-based anomaly detection and dependency-aware incident investigation demo with kNN, live dashboard and REST API.
+Topics: java, machine-learning, anomaly-detection, knn, observability, root-cause-analysis, rest-api, data-science, monitoring, student-project
+Visibility: Public (optional; choose Private if you do not want source code publicly visible).
+Website: Leave blank until a real public demo exists. localhost is not a public website.

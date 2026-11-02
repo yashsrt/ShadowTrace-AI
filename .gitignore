@@ -1,0 +1,16 @@
+# Java build output
+out/
+*.class
+*.jar
+# Generated monitoring logs and local data
+data/*.csv
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Secrets
+.env
+.env.*
+*.key
+*.pem
